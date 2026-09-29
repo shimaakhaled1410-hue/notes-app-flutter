@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\screens\\add_note_screen.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\screens\\add_note_screen.dart"
+        }
+    ]
+}
